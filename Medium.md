@@ -279,3 +279,7 @@ A “Fee on Transfer” token is a token that takes a percentage of internal com
 ### What is a rebasing token?
 
 A rebase, or elastic, token, is a token where the supply and the user’s balance is adjusted periodically. E.g any Liquidty stake token.
+
+### what is unchecked in solidity?
+
+Solidity 0.8 introduced the `unchecked` keyword, which allows developers to disable overflow and underflow checks. By leveraging Unchecked Math, you can significantly reduce gas costs and make your contracts more efficient.
